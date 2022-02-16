@@ -1,0 +1,25 @@
+body {
+    background-color: darkslateblue;
+    margin: auto;
+    text-align: center;
+}
+button {
+    width:300px;
+    background-color: #fff;
+    font-size: 30px;
+    border-radius: 20px;
+}
+button:hover {
+    background-color: yellow;
+}
+.button {
+    width: 400px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.block {
+    margin: auto;
+    font-size: 30px;
+    margin-top: 50px;
+}
